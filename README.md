@@ -1,4 +1,6 @@
 # Zideways The Website Revamp Project
+![Status: In Progress](https://img.shields.io/badge/status-in%20progress-yellow)
+
 
 ### What's here so far
 * a single, simple API endpoint (`/api/v1/fruits`)
